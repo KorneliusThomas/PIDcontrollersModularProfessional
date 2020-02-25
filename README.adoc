@@ -1,0 +1,21 @@
+= PID controllers Modular Professional Library for Arduino based on industrie controllers=
+
+This library contains three different types of PID controllers: continuous, step, impulse and 12 control functions.
+Also contains simulations of three control loops. The library is built modular: you can configure one or many conrollers adding control functions 
+according to demand.
+
+For more information about this library please see:
+https://github.com/KorneliusThomas/PIDcontrollersModularProfessional
+
+== License ==
+
+Copyright (c) Kornelius Thomas. All right reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
