@@ -1,4 +1,4 @@
-= PID controllers Modular Professional Library for Arduino based on industrie controllers=
+= PID controllers Modular Professional Library for Arduino based on industrial controllers=
 
 This library contains three different types of PID controllers: continuous, step, impulse and 12 control functions.
 Also contains simulations of three control loops. The library is built modular: you can configure one or many conrollers adding control functions 
