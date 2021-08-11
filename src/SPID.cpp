@@ -68,8 +68,12 @@ if (butt_min==true&&butt_plu==false)
   {motor_plu=false; // digital output motor +
    motor_min=true; //digital output motor - 
    return;} 
-  
-               }
+//remaining button combinations, both pressed or no button
+//pressed - motor outputs zero
+motor_plu=false;
+motor_min=false; 
+return; 
+            }
 
 
 //====================================================
